@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-18T05:34:47 EET" name="Default suite" finished-at="2023-04-18T05:35:31 EET" duration-ms="43944">
+    <groups>
+    </groups>
+    <test started-at="2023-04-18T05:34:47 EET" name="Default test" finished-at="2023-04-18T05:35:31 EET" duration-ms="43944">
+      <class name="mosafer.mosaferTest">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:mosafer.mosaferTest@4dd94a58]" started-at="2023-04-18T05:34:47 EET" name="startTest" finished-at="2023-04-18T05:34:50 EET" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="citiesTest()[pri:6, instance:mosafer.mosaferTest@4dd94a58]" started-at="2023-04-18T05:34:50 EET" name="citiesTest" finished-at="2023-04-18T05:35:31 EET" duration-ms="41545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- citiesTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:mosafer.mosaferTest@4dd94a58]" started-at="2023-04-18T05:35:31 EET" name="endTest" finished-at="2023-04-18T05:35:31 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- mosafer.mosaferTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
